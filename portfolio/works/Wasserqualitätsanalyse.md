@@ -1,5 +1,5 @@
 ---
-title: Projekt2 WASSERANALYSE
+title: WASSERANALYSE
 thumbnail: "/upload/thumbnails/wasser0.png"
 order: 2
 

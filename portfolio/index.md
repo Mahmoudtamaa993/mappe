@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>Meine Mappe</strong>"
+hero_text: "<strong>Hey.....</strong>"
 title: Home
 
 ---

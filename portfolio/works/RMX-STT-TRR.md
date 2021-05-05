@@ -1,5 +1,5 @@
 ---
-title: Projekt1 RMX STT TRRR
+title: RMX STT TRRR
 thumbnail: "/upload/thumbnails/mixerstyle.png"
 order: 1
 ---
